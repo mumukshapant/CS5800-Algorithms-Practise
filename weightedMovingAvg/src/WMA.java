@@ -1,5 +1,6 @@
 import java.util.*;
-
+//
+// https://www.chegg.com/homework-help/questions-and-answers/weighted-moving-average-programming-challenge-description-given-series-trades-trade-key-va-q93206043?auth_provider=oa&nruuid=50ec85dd
 public class WMA
 {
     List<Trade> tradeList= new ArrayList<>(); // all inpouts here
