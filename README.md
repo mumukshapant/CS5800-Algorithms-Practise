@@ -11,4 +11,7 @@
 | Single Number | https://leetcode.com/problems/single-number/|
 | Two Sum | https://leetcode.com/problems/two-sum/description/| 
 | Sort integer by number of 1 bits ( Cardinality Sort ) |https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/|
+| Kid with the Greatest numbr of Candies |https://leetcode.com/problems/kids-with-the-greatest-number-of-candies | 
+| Can place flowers| https://leetcode.com/problems/can-place-flowers/| 
+| Spiral Matrix | https://leetcode.com/problems/spiral-matrix/| 
 
